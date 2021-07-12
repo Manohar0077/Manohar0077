@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Internships**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Manohar0077?tab=repositories](https://github.com/Manohar0077?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/Manohar0077?tab=repositories)
 
 - 💬 Ask me about **Python,ML,Data Science**
 
