@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manohar0077&label=Profile%20views&color=0e75b6&style=flat" alt="manohar0077" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Deep Learning & Machine Learning Projects**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Generative Adversial Networks**
 
 - 👯 I’m looking to collaborate on **ML,python projects**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Manohar0077?tab=repositories)
 
-- 💬 Ask me about **Python,ML,Data Science**
+- 💬 Ask me about **Python,ML,DL,Data Science**
 
 - 📫 How to reach me **manoharmanok@gmail.com**
 
