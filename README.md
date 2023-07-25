@@ -9,7 +9,6 @@
 
 - 👯 I’m looking to collaborate on **ML,python projects**
 
-- 🤝 I’m looking for help with **Internships**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Manohar0077?tab=repositories)
 
