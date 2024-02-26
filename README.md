@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manohar Kedamsetti</h1>
-<h3 align="center">Data Science Enthusiast</h3>
+<h3 align="center">Data Scientist</h3>
 
 - 🔭 I’m currently working on **Machine Learning & Time Series Projects**
 
