@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manohar Kedamsetti</h1>
 <h3 align="center">Data Science Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manohar0077&label=Profile%20views&color=0e75b6&style=flat" alt="manohar0077" /> </p>
-
 - 🔭 I’m currently working on **Machine Learning & Time Series Projects**
 
 - 🌱 I’m currently learning **Generative Adversial Networks**
